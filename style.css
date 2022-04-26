@@ -119,3 +119,7 @@ li {
   background-color: #3a9188;
   transition: 150ms ease-in-out;
 }
+#openSourceLink{
+    display: block;
+    text-align: left;
+}
